@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AROC"]
 	path = AROC
 	url = https://github.com/cran/AROC
-	shallow = true
-	registered = true
 [submodule "npROCRegression"]
 	path = npROCRegression
 	url = https://github.com/cran/npROCRegression
-	shallow = true
-	registered = true
 [submodule "ROCnReg"]
 	path = ROCnReg
 	url = https://github.com/cran/ROCnReg
-	shallow = true
-	registered = true
 [submodule "SpATS"]
 	path = SpATS
 	url = https://github.com/cran/SpATS
-	shallow = true
-	registered = true
