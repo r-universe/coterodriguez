@@ -5,12 +5,12 @@
 [submodule "AROC"]
 	path = AROC
 	url = https://github.com/cran/AROC
-[submodule "npROCRegression"]
-	path = npROCRegression
-	url = https://github.com/cran/npROCRegression
 [submodule "ROCnReg"]
 	path = ROCnReg
 	url = https://github.com/cran/ROCnReg
 [submodule "SpATS"]
 	path = SpATS
 	url = https://github.com/cran/SpATS
+[submodule "npROCRegression"]
+	path = npROCRegression
+	url = https://github.com/cran/npROCRegression
